@@ -1,0 +1,3 @@
+upstox-python
+python-dotenv
+schedule
